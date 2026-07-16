@@ -29,6 +29,31 @@ sudo apt install /tmp/ninevolt-repo.deb && sudo apt update && sudo apt install n
 
 ---
 
+### Pedals with faces
+
+Every stomp has a TUI you can read from across the room.
+
+<p align="center">
+  <a href="https://ninevoltnine.com/pedals/crazy-tone.html"><img src="shots/crazy-tone.jpg" alt="Crazy Tone TUI" width="48%" /></a>
+  <a href="https://ninevoltnine.com/pedals/black-rat.html"><img src="shots/black-rat.jpg" alt="Black Rat TUI" width="48%" /></a>
+</p>
+<p align="center">
+  <a href="https://ninevoltnine.com/pedals/green-screamer.html"><img src="shots/green-screamer.jpg" alt="Green Screamer TUI" width="48%" /></a>
+  <a href="https://ninevoltnine.com/pedals/ana-echo.html"><img src="shots/ana-echo.jpg" alt="Ana Echo TUI" width="48%" /></a>
+</p>
+
+<p align="center">
+  <img src="shots/live-amp.jpg" alt="Ninevolt LIVE chain" width="92%" />
+  <br />
+  <sub>LIVE chain — Amp Push on a Blink-inspired board</sub>
+</p>
+
+<p align="center">
+  <a href="https://ninevoltnine.com/pedals/">Browse the full library →</a>
+</p>
+
+---
+
 ### What we build
 
 | | |
